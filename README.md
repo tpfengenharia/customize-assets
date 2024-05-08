@@ -1,0 +1,2 @@
+# customize-assets
+ Este repositório abriga os assets da aplicação CUTOMIZE, especificamente do plugin de assinaturas desenvolvido pela Empresa. Anteriormente, esses ativos residiam em um repositório público, situado fora do nosso ambiente. Como parte de um esforço para consolidar e gerenciar de forma mais eficiente o ciclo de desenvolvimento e os recursos da empresa, estabeleceu-se este repositório como o destino principal para adição de novos ativos e atualização dos existentes.
